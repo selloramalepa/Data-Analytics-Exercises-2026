@@ -1,1 +1,1 @@
-# Data-Analytics-Exercises-2026
+# Data-Analytics-Exercises-2026 SQL Excercises
